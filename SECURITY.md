@@ -1,15 +1,13 @@
-# Security Policy Under maintance 
+# Security Policy
 
 ## Supported Versions
 
-The following table lists which versions of EchoTrace are currently supported with security updates:
-
 | Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | ✅ Yes              |
-| 5.0.x   | ❌ No               |
-| 4.0.x   | ✅ Yes              |
-| < 4.0   | ❌ No               |
+| ------- | ----------------- |
+| 5.0.x   | ❌ No              |
+| 4.0.x   | ✅ Yes             |
+| 1.x     | ✅ Yes             |
+| < 4.0   | ❌ No              |
 
 ---
 
